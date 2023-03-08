@@ -59,28 +59,9 @@ const SearchComponent = () => {
           </select>
         </div>
         <div className="relative  w-80">
-          {/* <div className=" absolute top-1/4 flex">
-            <Image
-              className="mr-3 ml-4"
-              src="/Union2.svg"
-              alt="flight"
-              width={20}
-              height={20}
-            ></Image>
-            <p className="text-gray-400 text-sm font-normal">Where To ?</p>
-          </div> */}
-
+         
 <input  className="placeholder-transparent" placeholder="ho" type="date"></input>
-          {/* <selectnone
-            className="form-select border-none w-80 "
-            placeholder="from where?"
-          >
-            where?
-            <option value="0"></option>
-            <option value="1">One</option>
-            <option value="2">Two</option>
-            <option value="3">Three</option>
-          </selectnone> */}
+       
         </div>
       </div>
     </div>
